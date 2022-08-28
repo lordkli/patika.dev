@@ -6,8 +6,8 @@
 
 ## Veri yapıları ve algoritmalar ödevleri
 
-### 1. [Insertion Sort Projesi](https://github.com/lordkli/patika.dev/blob/main/src/main/java/VeriYapilariveAlgoritmalar/insertionSortProjesi.md)
+### 1. [Insertion Sort Projesi](https://github.com/lordkli/patika.dev/blob/main/src/main/java/VeriYapilariveAlgoritmalar/proje1/insertionSortProjesi.md)
 
-### 2. [Merge Sort Projesi](https://github.com/lordkli/patika.dev/blob/main/src/main/java/VeriYapilariveAlgoritmalar/MergeSortProjesi.md)
+### 2. [Merge Sort Projesi](https://github.com/lordkli/patika.dev/blob/main/src/main/java/VeriYapilariveAlgoritmalar/proje1/MergeSortProjesi.md)
 
-### 3. [Binary Search Tree Projesi](https://github.com/lordkli/patika.dev/blob/main/src/main/java/VeriYapilariveAlgoritmalar/BinaryTreeProjesi.md)
+### 3. [Binary Search Tree Projesi](https://github.com/lordkli/patika.dev/blob/main/src/main/java/VeriYapilariveAlgoritmalar/proje1/BinaryTreeProjesi.md)
