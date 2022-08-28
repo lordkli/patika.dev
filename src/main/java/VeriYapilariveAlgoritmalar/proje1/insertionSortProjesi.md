@@ -26,7 +26,7 @@ Bu dosya [patika.dev](https://www.patika.dev/tr)'in üyesi olan  [Eren Akarsu ](
 2. Big-O gösterimini yazınız.
 
 - **Yanıt:** 
-O($n^2$)
+O(n^2)
 ***
 
 **Hatırlatma:** Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
